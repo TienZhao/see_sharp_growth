@@ -53,3 +53,4 @@ C:\HelloWorld\vs_projects\see_sharp_growth\HelloWorld\obj\Debug\HelloWorld.cspro
 C:\HelloWorld\vs_projects\see_sharp_growth\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
 C:\HelloWorld\vs_projects\see_sharp_growth\HelloWorld\obj\Debug\HelloWorld.dll
 C:\HelloWorld\vs_projects\see_sharp_growth\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\HelloWorld\vs_projects\see_sharp_growth\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
